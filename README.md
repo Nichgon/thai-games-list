@@ -13,7 +13,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | CEO City                | 2005       | CyberPlanet Interactive                | City-building / simulation           | PC                                   |
 | The House               | 2005       | Sinthai Studio                          | Flash horror / point-and-click       | Web (Flash)                          |
 | Tom-Yum-Goong: The Game        | 2005 | Game No Limit                   | Action / Fighting             | PC  | 
-| Asura (Asura Online)    | 2007       | Debuz (Debuz Co., Ltd.)                 | 2D isometric MMORPG                  | PC                                   |
+| Asura (Asura Online)    | 2007       | Debuz                | 2D isometric MMORPG                  | PC                                   |
 | Santhai 1                | 2007       | Hardworker Studio                      | 2D RPG                       | PC                  |
 | Hero Master             | 2008       | Bigbug Studio                         | Turn-based RPG                         | PC                                     |
 | Santhai 2                      | 2008  | Hardworker Studio                | 2D RPG                       | PC                  |
