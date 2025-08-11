@@ -9,7 +9,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 
 | Game Title              | Year       | Studio / Developer                     | Genre / Type                         | Platform(s)                          |
 |-------------------------|------------|----------------------------------------|--------------------------------------|---------------------------------------|
-| Bangrajan                      | 2002       | Hansak Chombun and Boontham Phanyai | RTS                           | PC                   |
+| Bangrajan                      | 2002       | Hansak Chombun, Boontham Phanyai | RTS                           | PC                   |
 | Magic Chronicle         | 2003       | CyberPlanet Interactive                | Real-time strategy                   | PC                                   |
 | CEO City                | 2005       | CyberPlanet Interactive                | City-building / simulation           | PC                                   |
 | The House               | 2005       | Sinthai Studio                          | Flash horror / point-and-click       | Web (Flash)                          |
