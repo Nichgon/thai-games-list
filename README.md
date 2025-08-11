@@ -15,6 +15,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Asura (Asura Online)    | 2007       | Debuz (Debuz Co., Ltd.)                 | 2D isometric MMORPG                  | PC                                   |
 | Hero Master             | 2008       | Bigbug Studio                         | Turn-based RPG                         | PC                                     |
 | A.R.E.S.: Extinction Agenda | 2010   | Extend Studio                          | 2.5D action platformer               | PC, Xbox 360                         |
+| 12 Tails Online         | 2011       | Bigbug Studio                           | MMORPG / Fantasy                    | PC                                  |
 | So Many Me              | 2014       | Extend Studio                          | Puzzle platformer                    | PC, Xbox One                         |
 | Araya                   | 2016       | MAD Virtual Reality Studio              | First-person horror adventure        | PC (VR & non-VR)                     |
 | Home Sweet Home         | 2017       | Yggdrazil Group (Ygggame)               | Survival horror / puzzle             | PC, PS4, Xbox One, Switch            |
