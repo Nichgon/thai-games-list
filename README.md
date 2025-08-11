@@ -6,7 +6,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 ---
 
 ## 📜 Game List
-<div style="font-size: 14px;">
+
 | Game Title              | Year       | Studio / Developer                     | Genre / Type                         |
 |-------------------------|------------|----------------------------------------|--------------------------------------|
 | Magic Chronicle         | 2003       | CyberPlanet Interactive                | Real-time strategy (PC)              |
@@ -24,5 +24,5 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Timelie                 | 2020       | Urnique Studio                          | Puzzle / semi-stealth                |
 | Kingdoms Reborn         | 2020       | Earthshine	                             | City-builder strategy                |
 | Into the Haze           | 2021       | MSOFT                                   | Survival                             |
-</div>
+
 ---
