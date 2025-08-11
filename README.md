@@ -76,6 +76,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Dash Dash World | 2020 | MotionX Studio | VR Kart Racing / Combat | Oculus Quest, SteamVR, PSVR |
 | Dual Gear               | 2020       | Orbital Speed Studio          | 3D mech action shooting / strategy   | PC                                   |
 | Fallen Knight | 2020 | FairPlay Studios | Action-Platformer | PC, PS4, Xbox One, Switch, iOS |
+| Gunman And The Witch | 2020 | Phun Peeticharoenthum | Wild West City-Builder / Top-Down Shooter | PC |
 | Neokami: God Challengers | 2020 | Varisoft | Action RPG | iOS, Android |
 | Timelie                 | 2020       | Urnique Studio                          | Puzzle / semi-stealth                | PC, Switch                           |
 | Kingdoms Reborn         | 2020       | Earthshine	                             | City-builder strategy                | PC                                   |
