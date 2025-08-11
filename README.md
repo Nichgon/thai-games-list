@@ -34,9 +34,11 @@ This repository aims to preserve and showcase the history of Thai game developme
 | 12 Tails Online         | 2011       | Bigbug Studio                           | MMORPG / Fantasy                    | PC                                  |
 | Wicked Monsters Blast!   | 2011 | Corecell Technology | Gallery Shooter  | Nintendo Wii, PS3, Wii U (HD Plus)          |
 | Xenon Shooter: The Space Defender | 2012       | Pixel Perfex                    | Top-Down Shooter              | iOS |
+| Candy Meleon | 2013 | LevelLoop | Action / Arcade | iOS |
 | AeternoBlade             | 2014 | Corecell Technology | Action RPG       | Nintendo 3DS, PS4, PS Vita, Nintendo Switch, PC |
 | So Many Me              | 2014       | Extend Studio                          | Puzzle platformer                    | PC, Xbox One                         |
 | Araya                   | 2016       | MAD Virtual Reality Studio              | First-person horror adventure        | PC (VR & non-VR)                     |
+| Blast Breaker Online | 2016 | UNext Digital Plus | 3D Side-Scrolling Action MMORPG | PC |
 | Crazy Strike Bowling: EX | 2016 | Corecell Technology | Arcade Bowling   | PS4, Xbox One, Nintendo Switch              |
 | Earth Atlantis                | 2017       | Pixel Perfex                    | 2D Side-Scrolling Shooter      | PC, PS4, Xbox One, Nintendo Switch, iOS | 
 | Home Sweet Home         | 2017       | Yggdrazil Group             | Survival horror / puzzle             | PC, PS4, Xbox One, Switch            |
