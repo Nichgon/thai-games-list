@@ -49,11 +49,14 @@ This repository aims to preserve and showcase the history of Thai game developme
 | PakaPow: Friendship Never Ends | 2019 | Varisoft | Turn-based RPG / Adventure Board Game | iOS, Android |
 | Pandora Hunter | 2019 | Extend Studio | Board RPG / PvP | iOS, Android |
 | Project Nimbus          | 2019       | GameCrafterTeam                         | High-speed mech action               | PC, PS4, Switch                      |
+| Dash Dash World | 2020 | MotionX Studio | VR Kart Racing / Combat | Oculus Quest, SteamVR, PSVR |
 | Dual Gear               | 2020       | Orbital Speed Studio Co., Ltd.          | 3D mech action shooting / strategy   | PC                                   |
+| Fallen Knight | 2020 | FairPlay Studios | Action-Platformer | PC, PS4, Xbox One, Nintendo Switch, iOS |
 | Neokami: God Challengers | 2020 | Varisoft | Action RPG | iOS, Android |
 | Timelie                 | 2020       | Urnique Studio                          | Puzzle / semi-stealth                | PC, Switch                           |
 | Kingdoms Reborn         | 2020       | Earthshine	                             | City-builder strategy                | PC                                   |
 | Bloody Bunny: The Game | 2021 | Quantum Peaks | Hack-and-Slash / 3D Beat-'Em-Up | Nintendo Switch |
+| Chubby Bear Smash | 2021 | Runnex Technology | Motion-Control Fighting | PC |
 | Cyjin: The Cyborg Ninja | 2021 | Aiya Games | Precision Platformer | PC, Nintendo Switch |
 | Home Sweet Home: Survive | 2021 | Yggdrazil Group  | PVP Survival Horror | PC |
 | Into the Haze           | 2021       | MSOFT                                   | Survival                             | PC                                   |
@@ -62,6 +65,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Knock Knock Run | 2022 | Varisoft  | Action / Adventure | Android |
 | Krut: The Mythic Wings        | 2022       | Pixel Perfex                    | Action / Adventure            | PC, PS4, PS5, Xbox One, Xbox Series X|S, Nintendo Switch |
 | NYYO: The Forbidden Kingdom | 2022 | Amita Innovation | 2D Action Adventure | PC |
+| Our Mountain | 2022 | Rachata Suksereekul | Atmospheric Adventure | PC |
 | 7 Sins: Lost in Labyrinth      | 2023       | Zai Studio                       | Survival Horror, Action-Adventure | PC |
 | Airship: Kingdoms Adrift       | 2023       | Revolution Industry              | Strategy / Simulation / RPG      | PC |
 | Asuji: The Legend of You | 2023 | Somnolent Team | 2D Action-Adventure | PC |
@@ -70,6 +74,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | FARSIDERS | 2023 | Gambit Ghost Studio | Top-Down Hack-and-Slash RPG | PC, PS5, Xbox Series X/S, Nintendo Switch |
 | Goi: Spooky Run | 2023 | Yggdrazil Group  | Online Party Survival | Windows PC |
 | Sole Saga                     | 2023       | Dev It With Cat                  | Action Roguelike / Bullet Hell    | PC, Linux |
+| Abyssal Blood | 2024 | Xilosopher | Action Roguelike / Survivors-like |  PC |
 | Frog Story: The Power Tongue | 2024 | ADox-Lab | Puzzle-Platformer | PC, Android |
 | Night Drive: คืนหลอน ซ่อนทาง | 2024 | Zebracan Studio | First-Person Driving Horror | PC |
 | Spirit Mancer                 | 2024       | Sunny Syrup Studio               | Hack and Slash / Deckbuilding    | PC, PS5, Nintendo Switch |
