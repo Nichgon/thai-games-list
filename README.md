@@ -25,6 +25,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Hero Master             | 2008       | Bigbug Studio                         | Turn-based RPG                         | PC                                     |
 | Santhai 2                      | 2008  | Hardworker Studio                | 2D RPG                       | PC                  |
 | A.R.E.S.: Extinction Agenda | 2010   | Extend Studio                          | 2.5D action platformer               | PC, Xbox 360                         |
+| KIA – Killed In Action     | 2010       | Virus Studios                    | TPS    | PC |
 | 12 Tails Online         | 2011       | Bigbug Studio                           | MMORPG / Fantasy                    | PC                                  |
 | So Many Me              | 2014       | Extend Studio                          | Puzzle platformer                    | PC, Xbox One                         |
 | Araya                   | 2016       | MAD Virtual Reality Studio              | First-person horror adventure        | PC (VR & non-VR)                     |
