@@ -44,16 +44,21 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Blast Breaker Online | 2016 | UNext Digital Plus | 3D Side-Scrolling Action MMORPG | PC |
 | Crazy Strike Bowling: EX | 2016 | Corecell Technology | Arcade Bowling   | PS4, Xbox One, Switch              |
 | Earth Atlantis                | 2017       | Pixel Perfex                    | 2D Side-Scrolling Shooter      | PC, PS4, Xbox One, Switch, iOS | 
+| Eternal Lore | 2017 | Hitbear Studio | Action RPG | PC |
 | HEPH | 2017 | Creature of the Rise  | Third-Person Survival Horror | PC |
 | Home Sweet Home         | 2017       | Yggdrazil Group             | First-Person Survival Horror / Puzzle             | PC, PS4, Xbox One, Switch            |
+| LeftWay | 2017 | Tongsun | Horror Adventure | PC, macOS, Linux |
 | Panthera Frontier | 2017 | Extend Studio | Space Strategy / Roguelike | iOS, Android |
 | The Falconers: Moonlight       | 2017       | Bionic Penguin Studios           | Thriller Visual Novel | PC, macOS, Linux |
+| Eternal Dread | 2018 | Hitbear Studio | Action RPG | PC |
+| Garin Game : Curse of Revival Ceremony | 2018 | Ma-mu-i | Visual Novel / Horror Adventure | PC, macOS | 
 | Mist Survival           | 2018       | Dimension 32 Entertainment              | Survival                             | PC                                   |
 | Nine Satra: Mobile | 2018 | Crosstales Studio | Side-Scrolling Action RPG | Android, iOS |
 | Re Angel | 2018 | Studio GU | Visual Novel | PC |
 | AeternoBlade II          | 2019 | Corecell Technology | Action-Adventure | PS4, Switch, Xbox One, PC          |
 | Athenion                      | 2019       | ZERO-bit                         | Tactical CCG (Card/Board) online     | iOS, Android |
 | DemonsAreCrazy                | 2019       | Bigbug Studio                    | MOBA / Action RPG              | PC |
+| Eternal Dread 2 | 2019 | Hitbear Studio | Action RPG | PC |
 | Forbidden Love With The Ghost Girl | 2019 | Long Wing Studio | Visual Novel | PC |
 | Heroes Guardian: Dark Genesis | 2019 | Fun Oxide | Turn-Based RPG | iOS, Android |
 | Home Sweet Home EP2 | 2019 | Yggdrazil Group | First-Person Survival Horror / Puzzle | PC |
@@ -84,6 +89,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Asuji: The Legend of You | 2023 | Somnolent Team | 2D Action-Adventure | PC |
 | Banchou Tactics               | 2023       | Secret Character     | Turn-Based Tactical RPG        | PC, Switch | 
 | Encoded War | 2023 | Somnolent Team | Morse Code Simulation | PC, macOS |
+| Eternal Dread 3 | 2023 | Hitbear Studio | Action RPG | PC |
 | FARSIDERS | 2023 | Gambit Ghost Studio | Top-Down Hack-and-Slash RPG | PC, PS5, Xbox Series X/S, Switch |
 | Goi: Spooky Run | 2023 | Yggdrazil Group  | Online Party Survival | Windows PC |
 | Sole Saga                     | 2023       | Dev It With Cat                  | Action Roguelike / Bullet Hell    | PC, Linux |
