@@ -92,6 +92,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Krut: The Mythic Wings        | 2022       | Pixel Perfex                    | Action / Adventure            | PC, PS4, PS5, Xbox One, Xbox Series X|S, Switch |
 | NYYO: The Forbidden Kingdom | 2022 | Amita Innovation | 2D Action Adventure | PC |
 | Our Mountain | 2022 | Rachata Suksereekul | Atmospheric Adventure | PC |
+| Yakiniku Simulator | 2022 | SECRET CHARACTER | Casual Cooking / Life Simulation | PC |
 | 7 Sins: Lost in Labyrinth      | 2023       | Zai Studio                       | Survival Horror, Action-Adventure | PC |
 | Airship: Kingdoms Adrift       | 2023       | Revolution Industry              | Strategy / Simulation / RPG      | PC |
 | Asuji: The Legend of You | 2023 | Somnolent Team | 2D Action-Adventure | PC |
@@ -106,7 +107,9 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Dungeon Looter | 2024 | Wappen Games | Hack-and-Slash Roguelite / Action RPG | PC |
 | Frog Story: The Power Tongue | 2024 | ADox-Lab | Puzzle-Platformer | PC, Android |
 | Memary: Memory of the nameless one | 2024 | AstralSeal | Visual Novel / Puzzle Adventure | PC |
+| Neko Odyssey | 2024 | SECRET CHARACTER | Casual Adventure / Cat Photography | PC |
 | Night Drive: คืนหลอน ซ่อนทาง | 2024 | Zebracan Studio | First-Person Driving Horror | PC |
+| Seed of Heroes | 2024 | Vermillion Digital | Bullet Heaven / Roguelite | PC |
 | Spirit Mancer                 | 2024       | Sunny Syrup Studio               | Hack and Slash / Deckbuilding    | PC, PS5, Switch |
 | The Land Beneath Us | 2024 | FairPlay Studios | Turn-Based Roguelite Dungeon Crawler | Windows PC, Switch, PS5, Xbox Series X/S |
 | Garland Boy | 2025 | Wappen Games       | Casual / Simulation | PC, iOS, Andriod  |
