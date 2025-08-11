@@ -49,6 +49,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | AeternoBlade II          | 2019 | Corecell Technology | Action-Adventure | PS4, Nintendo Switch, Xbox One, PC          |
 | Athenion                      | 2019       | ZERO-bit                         | Tactical CCG (Card/Board) online     | iOS, Android |
 | DemonsAreCrazy                | 2019       | Bigbug Studio                    | MOBA / Action RPG              | PC |
+| Forbidden Love With The Ghost Girl | 2019 | Long Wing Studio | Visual Novel | PC |
 | Heroes Guardian: Dark Genesis | 2019 | Fun Oxide | Turn-Based RPG | iOS, Android |
 | Invictus: Lost Soul | 2019 | True Axion Interactive | Card-Based PvP Fighting | iOS, Android | 
 | M.A.S.S. Builder        | 2019       | The Vermillion Digital                  | RPG mech-fighting game               | PC                                   |
