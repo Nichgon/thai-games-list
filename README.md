@@ -43,6 +43,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Araya                   | 2016       | MAD Virtual Reality Studio              | First-person horror adventure        | PC (VR & non-VR)                     |
 | Blast Breaker Online | 2016 | UNext Digital Plus | 3D Side-Scrolling Action MMORPG | PC |
 | Crazy Strike Bowling: EX | 2016 | Corecell Technology | Arcade Bowling   | PS4, Xbox One, Switch              |
+| Corrupt | 2017 | Opendream	 | Visual Novel | iOS, Andriod, PC, macOS |
 | Earth Atlantis                | 2017       | Pixel Perfex                    | 2D Side-Scrolling Shooter      | PC, PS4, Xbox One, Switch, iOS | 
 | Eternal Lore | 2017 | Hitbear Studio | Action RPG | PC |
 | HEPH | 2017 | Creature of the Rise  | Third-Person Survival Horror | PC |
