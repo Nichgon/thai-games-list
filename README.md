@@ -17,7 +17,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | So Many Me              | 2014       | Extend Studio                          | Puzzle platformer                    |
 | Araya                   | 2016       | MAD Virtual Reality Studio              | First-person horror adventure        |
 | Home Sweet Home         | 2017       | Yggdrazil Group (Ygggame)               | Survival horror / puzzle             |
-| Mist Survival           | 2018       | Solo developer (Unspecified)            | Survival (Unreal Engine 4)           |
+| Mist Survival           | 2018       | Dimension 32 Entertainment              | Survival (Unreal Engine 4)           |
 | M.A.S.S. Builder        | 2019       | The Vermillion Digital                  | RPG mech-fighting game               |
 | Project Nimbus          | 2019       | GameCrafterTeam                         | High-speed mech action               |
 | Dual Gear               | 2020       | Orbital Speed Studio Co., Ltd.          | 3D mech action shooting / strategy   |
