@@ -37,5 +37,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Kingdoms Reborn         | 2020       | Earthshine	                             | City-builder strategy                | PC                                   |
 | Into the Haze           | 2021       | MSOFT                                   | Survival                             | PC                                   |
 | Santhai: New Legend            | 2021  | Hardworker Studio                | 2D RPG                       | iOS, Android, PC    |
+| Krut: The Mythic Wings        | 2022       | RSU Horizon                    | Action / Adventure            | PC, PS4, PS5, Xbox One, Xbox Series X|S, Nintendo Switch |
+
 
 ---
