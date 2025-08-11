@@ -122,5 +122,3 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Garland Boy | 2025 | Wappen Games       | Casual / Simulation | PC, iOS, Andriod  |
 | Re:Fragment \~Absolute Ambition\~ | 2025 | AstralSeal | Visual Novel | PC |
 | Tale of REN ~ [Searching for HEART droplets] ~ | 2025 | Erost Game79 Studio | Visual Novel | PC | 
-
----
