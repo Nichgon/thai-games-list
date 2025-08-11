@@ -11,6 +11,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 |-------------------------|------------|----------------------------------------|--------------------------------------|---------------------------------------|
 | Bangrajan                      | 2002       | Hansak Chombun, Boontham Phanyai | RTS                           | PC                   |
 | Magic Chronicle         | 2003       | CyberPlanet Interactive                | RTS                   | PC                                   |
+| Garuda (Paksawayu)              | 2004       | CyberPlanet Interactive                    | FPS              | PC  | 
 | Moontra Kid - Episode 1: Drug War                   | 2004       | CyberPlanet Interactive            | Platformer / Educational               | PC    |
 | Moontra Kid Buggy                  | 2004       | CyberPlanet Interactive            | Racing / Educational                | PC    |
 | Moontra Kid: Magic Pair               | 2004       | CyberPlanet Interactive            | Puzzle / Educational                | PC    |
