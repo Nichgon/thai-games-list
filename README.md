@@ -39,6 +39,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Re Angel | 2018 | Studio GU | Visual Novel | PC |
 | Athenion                      | 2019       | ZERO-bit                         | Tactical CCG (Card/Board) online     | iOS, Android |
 | DemonsAreCrazy                | 2019       | Bigbug Studio                    | MOBA / Action RPG              | PC |
+| Heroes Guardian: Dark Genesis | 2019 | Fun Oxide | Turn-Based RPG | iOS, Android |
 | M.A.S.S. Builder        | 2019       | The Vermillion Digital                  | RPG mech-fighting game               | PC                                   |
 | PakaPow: Friendship Never Ends | 2019 | Varisoft | Turn-based RPG / Adventure Board Game | iOS, Android |
 | Pandora Hunter | 2019 | Extend Studio | Board RPG / PvP | iOS, Android |
@@ -47,7 +48,10 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Neokami: God Challengers | 2020 | Varisoft | Action RPG | iOS, Android |
 | Timelie                 | 2020       | Urnique Studio                          | Puzzle / semi-stealth                | PC, Switch                           |
 | Kingdoms Reborn         | 2020       | Earthshine	                             | City-builder strategy                | PC                                   |
+| Bloody Bunny: The Game | 2021 | Quantum Peaks | Hack-and-Slash / 3D Beat-'Em-Up | Nintendo Switch |
+| Cyjin: The Cyborg Ninja | 2021 | Aiya Games | Precision Platformer | PC, Nintendo Switch |
 | Into the Haze           | 2021       | MSOFT                                   | Survival                             | PC                                   |
+| Joojee's Journey | 2021 | Quantum Peaks | Puzzle-Platformer | Nintendo Switch |
 | Santhai: New Legend            | 2021  | Hardworker Studio                | 2D RPG                       | iOS, Android, PC    |
 | Knock Knock Run | 2022 | Varisoft  | Action / Adventure | Android |
 | Krut: The Mythic Wings        | 2022       | Pixel Perfex                    | Action / Adventure            | PC, PS4, PS5, Xbox One, Xbox Series X|S, Nintendo Switch |
