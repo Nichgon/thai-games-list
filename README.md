@@ -55,6 +55,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Kingdoms Reborn         | 2020       | Earthshine	                             | City-builder strategy                | PC                                   |
 | Bloody Bunny: The Game | 2021 | Quantum Peaks | Hack-and-Slash / 3D Beat-'Em-Up | Nintendo Switch |
 | Cyjin: The Cyborg Ninja | 2021 | Aiya Games | Precision Platformer | PC, Nintendo Switch |
+| Home Sweet Home: Survive | 2021 | Yggdrazil Group  | PVP Survival Horror | PC |
 | Into the Haze           | 2021       | MSOFT                                   | Survival                             | PC                                   |
 | Joojee's Journey | 2021 | Quantum Peaks | Puzzle-Platformer | Nintendo Switch |
 | Santhai: New Legend            | 2021  | Hardworker Studio                | 2D RPG                       | iOS, Android, PC    |
@@ -63,9 +64,16 @@ This repository aims to preserve and showcase the history of Thai game developme
 | NYYO: The Forbidden Kingdom | 2022 | Amita Innovation | 2D Action Adventure | PC |
 | 7 Sins: Lost in Labyrinth      | 2023       | Zai Studio                       | Survival Horror, Action-Adventure | PC |
 | Airship: Kingdoms Adrift       | 2023       | Revolution Industry              | Strategy / Simulation / RPG      | PC |
+| Asuji: The Legend of You | 2023 | Somnolent Team | 2D Action-Adventure | PC |
 | Banchou Tactics               | 2023       | Secret Character     | Turn-Based Tactical RPG        | PC, Nintendo Switch | 
+| Encoded War | 2023 | Somnolent Team | Morse Code Simulation | PC, macOS |
+| FARSIDERS | 2023 | Gambit Ghost Studio | Top-Down Hack-and-Slash RPG | PC, PS5, Xbox Series X/S, Nintendo Switch |
 | Goi: Spooky Run | 2023 | Yggdrazil Group  | Online Party Survival | Windows PC |
 | Sole Saga                     | 2023       | Dev It With Cat                  | Action Roguelike / Bullet Hell    | PC, Linux |
+| Frog Story: The Power Tongue | 2024 | ADox-Lab | Puzzle-Platformer | PC, Android |
+| Night Drive: คืนหลอน ซ่อนทาง | 2024 | Zebracan Studio | First-Person Driving Horror | PC |
 | Spirit Mancer                 | 2024       | Sunny Syrup Studio               | Hack and Slash / Deckbuilding    | PC, PS5, Nintendo Switch |
+| The Land Beneath Us | 2024 | FairPlay Studios | Turn-Based Roguelite Dungeon Crawler | Windows PC, Nintendo Switch, PS5, Xbox Series X/S |
+| Tale of REN ~ [Searching for HEART droplets] ~ | 2025 | Erost Game79 Studio | Visual Novel | PC | 
 
 ---
