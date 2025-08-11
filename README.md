@@ -22,7 +22,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Project Nimbus          | 2019       | GameCrafterTeam                         | High-speed mech action               |
 | Dual Gear               | 2020       | Orbital Speed Studio Co., Ltd.          | 3D mech action shooting / strategy   |
 | Timelie                 | 2020       | Urnique Studio                          | Puzzle / semi-stealth                |
-| Kingdoms Reborn         | 2020       | (Unspecified)                           | City-builder strategy                |
+| Kingdoms Reborn         | 2020       | Earthshine	                             | City-builder strategy                |
 | Into the Haze           | 2021       | MSOFT                                   | Survival                             |
 
 ---
