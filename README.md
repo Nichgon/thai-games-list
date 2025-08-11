@@ -81,6 +81,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Goi: Spooky Run | 2023 | Yggdrazil Group  | Online Party Survival | Windows PC |
 | Sole Saga                     | 2023       | Dev It With Cat                  | Action Roguelike / Bullet Hell    | PC, Linux |
 | Abyssal Blood | 2024 | Xilosopher | Action Roguelike / Survivors-like |  PC |
+| Dungeon Looter | 2024 | Wappen Games | Hack-and-Slash Roguelite / Action RPG | PC |
 | Frog Story: The Power Tongue | 2024 | ADox-Lab | Puzzle-Platformer | PC, Android |
 | Night Drive: คืนหลอน ซ่อนทาง | 2024 | Zebracan Studio | First-Person Driving Horror | PC |
 | Spirit Mancer                 | 2024       | Sunny Syrup Studio               | Hack and Slash / Deckbuilding    | PC, PS5, Nintendo Switch |
