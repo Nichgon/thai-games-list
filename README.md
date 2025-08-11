@@ -28,6 +28,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Khan Kluay: Kids War | 2006 | Kantana Animation | Strategy / Arcade | Web |
 | Khan Kluay: The Adventure | 2006 | Kantana Animation | Educational / Adventure | PC |
 | Asura (Asura Online)    | 2007       | Debuz                | 2D isometric MMORPG                  | PC                                   |
+| Project ONE (Project Online Never Ending) | 2007 | Debuz | 2D Isometric MMORPG | PC  |
 | Santhai 1                | 2007       | Hardworker Studio                      | 2D RPG                       | PC                  |
 | Zaros X Battle | 2007 | ARSA Productions | 2D Fighting / Arcade | PC |
 | Barnyard Blast: Swine of the Night | 2008 | Sanuk Games | 2D Action Platformer | DS |
@@ -55,9 +56,12 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Home Sweet Home         | 2017       | Yggdrazil Group             | First-Person Survival Horror / Puzzle             | PC, PS4, Xbox One, Switch            |
 | LeftWay | 2017 | Tongsun | Horror Adventure | PC, macOS, Linux |
 | Panthera Frontier | 2017 | Extend Studio | Space Strategy / Roguelike | iOS, Android |
+| Puzzle Guardians | 2017 | Miryn Innovation | Puzzle RPG | iOS, Android, PC |
 | The Falconers: Moonlight       | 2017       | Bionic Penguin Studios           | Thriller Visual Novel | PC, macOS, Linux |
+| Weapons of the Gods | 2017 | Electronics Extreme (EXE) | Action MMORPG | iOS, Android | 
 | ZHUST - THE ILLUSION SOUL | 2017 | KT Games | Action / Hack & Slash | PC |
 | Eternal Dread | 2018 | Hitbear Studio | Action RPG | PC |
+| Friendship21s | 2018 | Miryn Innovation | Life Simulation / Social Learning | iOS, Android |
 | Garin Game : Curse of Revival Ceremony | 2018 | Ma-mu-i | Visual Novel / Horror Adventure | PC, macOS | 
 | Mist Survival           | 2018       | Dimension 32 Entertainment              | Survival                             | PC                                   |
 | Nine Satra: Mobile | 2018 | Crosstales Studio | Side-Scrolling Action RPG | Android, iOS |
