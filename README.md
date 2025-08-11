@@ -21,12 +21,16 @@ This repository aims to preserve and showcase the history of Thai game developme
 | The House               | 2005       | Sinthai Studio                          | Flash horror / point-and-click       | Web (Flash)                          |
 | Moontra Kid: The Ghost City                  | 2005       | CyberPlanet Interactive            | Platformer                | PC    |
 | Tom-Yum-Goong: The Game        | 2005 | Game No Limit                   | Action / Fighting             | PC  | 
+| Khan Kluay: Kids War | 2006 | Kantana Animation | Strategy / Arcade | Web |
+| Khan Kluay: The Adventure | 2006 | Kantana Animation | Educational / Adventure | PC |
 | Asura (Asura Online)    | 2007       | Debuz                | 2D isometric MMORPG                  | PC                                   |
 | Santhai 1                | 2007       | Hardworker Studio                      | 2D RPG                       | PC                  |
+| Barnyard Blast: Swine of the Night | 2008 | Sanuk Games | 2D Action Platformer | Nintendo DS |
 | HeroMaster             | 2008       | Bigbug Studio                         | Turn-based RPG                         | PC                                     |
 | Santhai 2                      | 2008  | Hardworker Studio                | 2D RPG                       | PC                  |
 | A.R.E.S.: Extinction Agenda | 2010   | Extend Studio                          | 2.5D action platformer               | PC, Xbox 360                         |
 | KIA – Killed In Action     | 2010       | Virus Studios                    | TPS online   | PC |
+| King Naresuan Online | 2010 | PlayThai | MMORPG | Windows PC |
 | 12 Tails Online         | 2011       | Bigbug Studio                           | MMORPG / Fantasy                    | PC                                  |
 | Xenon Shooter: The Space Defender | 2012       | Pixel Perfex                    | Top-Down Shooter              | iOS |
 | So Many Me              | 2014       | Extend Studio                          | Puzzle platformer                    | PC, Xbox One                         |
