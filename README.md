@@ -33,12 +33,15 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Araya                   | 2016       | MAD Virtual Reality Studio              | First-person horror adventure        | PC (VR & non-VR)                     |
 | Earth Atlantis                | 2017       | Pixel Perfex                    | 2D Side-Scrolling Shooter      | PC, PS4, Xbox One, Nintendo Switch, iOS | 
 | Home Sweet Home         | 2017       | Yggdrazil Group (Ygggame)               | Survival horror / puzzle             | PC, PS4, Xbox One, Switch            |
+| Panthera Frontier | 2017 | Extend Studio | Space Strategy / Roguelike | iOS, Android |
 | The Falconers: Moonlight       | 2017       | Bionic Penguin Studios           | Thriller Visual Novel | PC, macOS, Linux |
 | Mist Survival           | 2018       | Dimension 32 Entertainment              | Survival                             | PC                                   |
+| Re Angel | 2018 | Studio GU | Visual Novel | PC |
 | Athenion                      | 2019       | ZERO-bit                         | Tactical CCG (Card/Board) online     | iOS, Android |
 | DemonsAreCrazy                | 2019       | Bigbug Studio                    | MOBA / Action RPG              | PC |
 | M.A.S.S. Builder        | 2019       | The Vermillion Digital                  | RPG mech-fighting game               | PC                                   |
 | PakaPow: Friendship Never Ends | 2019 | Varisoft | Turn-based RPG / Adventure Board Game | iOS, Android |
+| Pandora Hunter | 2019 | Extend Studio | Board RPG / PvP | iOS, Android |
 | Project Nimbus          | 2019       | GameCrafterTeam                         | High-speed mech action               | PC, PS4, Switch                      |
 | Dual Gear               | 2020       | Orbital Speed Studio Co., Ltd.          | 3D mech action shooting / strategy   | PC                                   |
 | Neokami: God Challengers | 2020 | Varisoft | Action RPG | iOS, Android |
