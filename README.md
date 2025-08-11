@@ -42,6 +42,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Blast Breaker Online | 2016 | UNext Digital Plus | 3D Side-Scrolling Action MMORPG | PC |
 | Crazy Strike Bowling: EX | 2016 | Corecell Technology | Arcade Bowling   | PS4, Xbox One, Nintendo Switch              |
 | Earth Atlantis                | 2017       | Pixel Perfex                    | 2D Side-Scrolling Shooter      | PC, PS4, Xbox One, Nintendo Switch, iOS | 
+| HEPH | 2017 | Creature of the Rise  | Third-Person Survival Horror | PC |
 | Home Sweet Home         | 2017       | Yggdrazil Group             | Survival horror / puzzle             | PC, PS4, Xbox One, Switch            |
 | Panthera Frontier | 2017 | Extend Studio | Space Strategy / Roguelike | iOS, Android |
 | The Falconers: Moonlight       | 2017       | Bionic Penguin Studios           | Thriller Visual Novel | PC, macOS, Linux |
