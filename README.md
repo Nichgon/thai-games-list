@@ -22,7 +22,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Tom-Yum-Goong: The Game        | 2005 | Game No Limit                   | Action / Fighting             | PC  | 
 | Asura (Asura Online)    | 2007       | Debuz                | 2D isometric MMORPG                  | PC                                   |
 | Santhai 1                | 2007       | Hardworker Studio                      | 2D RPG                       | PC                  |
-| Hero Master             | 2008       | Bigbug Studio                         | Turn-based RPG                         | PC                                     |
+| HeroMaster             | 2008       | Bigbug Studio                         | Turn-based RPG                         | PC                                     |
 | Santhai 2                      | 2008  | Hardworker Studio                | 2D RPG                       | PC                  |
 | A.R.E.S.: Extinction Agenda | 2010   | Extend Studio                          | 2.5D action platformer               | PC, Xbox 360                         |
 | KIA – Killed In Action     | 2010       | Virus Studios                    | TPS Online   | PC |
