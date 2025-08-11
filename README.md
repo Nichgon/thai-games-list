@@ -13,7 +13,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | CEO City                | 2005       | CyberPlanet Interactive                | City-building / simulation           |
 | The House               | 2005       | Sinthai Studio                          | Flash horror / point-and-click       |
 | Asura (Asura Online)    | 2007       | Debuz (Debuz Co., Ltd.)                 | 2D isometric MMORPG                   |
-| A.R.E.S.: Extinction Agenda | 2010 (Dec) | Extend Studio                          | 2.5D action platformer               |
+| A.R.E.S.: Extinction Agenda | 2010   | Extend Studio                          | 2.5D action platformer               |
 | So Many Me              | 2014       | Extend Studio                          | Puzzle platformer                    |
 | Araya                   | 2016       | MAD Virtual Reality Studio              | First-person horror adventure        |
 | Home Sweet Home         | 2017       | Yggdrazil Group (Ygggame)               | Survival horror / puzzle             |
