@@ -36,7 +36,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | So Many Me              | 2014       | Extend Studio                          | Puzzle platformer                    | PC, Xbox One                         |
 | Araya                   | 2016       | MAD Virtual Reality Studio              | First-person horror adventure        | PC (VR & non-VR)                     |
 | Earth Atlantis                | 2017       | Pixel Perfex                    | 2D Side-Scrolling Shooter      | PC, PS4, Xbox One, Nintendo Switch, iOS | 
-| Home Sweet Home         | 2017       | Yggdrazil Group (Ygggame)               | Survival horror / puzzle             | PC, PS4, Xbox One, Switch            |
+| Home Sweet Home         | 2017       | Yggdrazil Group             | Survival horror / puzzle             | PC, PS4, Xbox One, Switch            |
 | Panthera Frontier | 2017 | Extend Studio | Space Strategy / Roguelike | iOS, Android |
 | The Falconers: Moonlight       | 2017       | Bionic Penguin Studios           | Thriller Visual Novel | PC, macOS, Linux |
 | Mist Survival           | 2018       | Dimension 32 Entertainment              | Survival                             | PC                                   |
@@ -44,6 +44,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Athenion                      | 2019       | ZERO-bit                         | Tactical CCG (Card/Board) online     | iOS, Android |
 | DemonsAreCrazy                | 2019       | Bigbug Studio                    | MOBA / Action RPG              | PC |
 | Heroes Guardian: Dark Genesis | 2019 | Fun Oxide | Turn-Based RPG | iOS, Android |
+| Invictus: Lost Soul | 2019 | True Axion Interactive | Card-Based PvP Fighting | iOS, Android | 
 | M.A.S.S. Builder        | 2019       | The Vermillion Digital                  | RPG mech-fighting game               | PC                                   |
 | PakaPow: Friendship Never Ends | 2019 | Varisoft | Turn-based RPG / Adventure Board Game | iOS, Android |
 | Pandora Hunter | 2019 | Extend Studio | Board RPG / PvP | iOS, Android |
@@ -59,9 +60,11 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Santhai: New Legend            | 2021  | Hardworker Studio                | 2D RPG                       | iOS, Android, PC    |
 | Knock Knock Run | 2022 | Varisoft  | Action / Adventure | Android |
 | Krut: The Mythic Wings        | 2022       | Pixel Perfex                    | Action / Adventure            | PC, PS4, PS5, Xbox One, Xbox Series X|S, Nintendo Switch |
+| NYYO: The Forbidden Kingdom | 2022 | Amita Innovation | 2D Action Adventure | PC |
 | 7 Sins: Lost in Labyrinth      | 2023       | Zai Studio                       | Survival Horror, Action-Adventure | PC |
 | Airship: Kingdoms Adrift       | 2023       | Revolution Industry              | Strategy / Simulation / RPG      | PC |
 | Banchou Tactics               | 2023       | Secret Character     | Turn-Based Tactical RPG        | PC, Nintendo Switch | 
+| Goi: Spooky Run | 2023 | Yggdrazil Group  | Online Party Survival | Windows PC |
 | Sole Saga                     | 2023       | Dev It With Cat                  | Action Roguelike / Bullet Hell    | PC, Linux |
 | Spirit Mancer                 | 2024       | Sunny Syrup Studio               | Hack and Slash / Deckbuilding    | PC, PS5, Nintendo Switch |
 
