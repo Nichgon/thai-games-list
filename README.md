@@ -11,6 +11,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 |-------------------------|------------|----------------------------------------|--------------------------------------|---------------------------------------|
 | Bangrajan                      | 2002       | Hansak Chombun, Boontham Phanyai | RTS                           | PC                   |
 | Magic Chronicle         | 2003       | CyberPlanet Interactive                | RTS                   | PC                                   |
+| Moontra Kid                   | 2004       | CyberPlanet Interactive            | Platformer                | PC    |
 | CEO City                | 2005       | CyberPlanet Interactive                | City-building / simulation           | PC                                   |
 | The House               | 2005       | Sinthai Studio                          | Flash horror / point-and-click       | Web (Flash)                          |
 | Tom-Yum-Goong: The Game        | 2005 | Game No Limit                   | Action / Fighting             | PC  | 
