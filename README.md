@@ -43,6 +43,9 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Araya                   | 2016       | MAD Virtual Reality Studio              | First-person horror adventure        | PC (VR & non-VR)                     |
 | Blast Breaker Online | 2016 | UNext Digital Plus | 3D Side-Scrolling Action MMORPG | PC |
 | Crazy Strike Bowling: EX | 2016 | Corecell Technology | Arcade Bowling   | PS4, Xbox One, Switch              |
+| METAGAL | 2016 | RetroRevolution | Action Platformer | PC, PS4, PS Vita, Switch, Xbox One |
+| Wanderjahr | 2016 | Workyrie Game Studio | JRPG / Strategy | PC, PS Vita, Switch |
+| Blue Bird | 2017 | Deadline Soft | Visual Novel / Romance | PC |
 | Corrupt | 2017 | Opendream	 | Visual Novel | iOS, Andriod, PC, macOS |
 | Earth Atlantis                | 2017       | Pixel Perfex                    | 2D Side-Scrolling Shooter      | PC, PS4, Xbox One, Switch, iOS | 
 | Eternal Lore | 2017 | Hitbear Studio | Action RPG | PC |
@@ -51,6 +54,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | LeftWay | 2017 | Tongsun | Horror Adventure | PC, macOS, Linux |
 | Panthera Frontier | 2017 | Extend Studio | Space Strategy / Roguelike | iOS, Android |
 | The Falconers: Moonlight       | 2017       | Bionic Penguin Studios           | Thriller Visual Novel | PC, macOS, Linux |
+| ZHUST - THE ILLUSION SOUL | 2017 | KT Games | Action / Hack & Slash | PC |
 | Eternal Dread | 2018 | Hitbear Studio | Action RPG | PC |
 | Garin Game : Curse of Revival Ceremony | 2018 | Ma-mu-i | Visual Novel / Horror Adventure | PC, macOS | 
 | Mist Survival           | 2018       | Dimension 32 Entertainment              | Survival                             | PC                                   |
@@ -65,6 +69,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Home Sweet Home EP2 | 2019 | Yggdrazil Group | First-Person Survival Horror / Puzzle | PC |
 | Invictus: Lost Soul | 2019 | True Axion Interactive | Card-Based PvP Fighting | iOS, Android | 
 | M.A.S.S. Builder        | 2019       | The Vermillion Digital                  | RPG mech-fighting game               | PC                                   |
+| Metaloid: Origin | 2019 | RetroRevolution | Action Platformer / Gun'n'Run | PC, PS4, Switch, Xbox One |
 | PakaPow: Friendship Never Ends | 2019 | Varisoft | Turn-based RPG / Adventure Board Game | iOS, Android |
 | Pandora Hunter | 2019 | Extend Studio | Board RPG / PvP | iOS, Android |
 | Project Nimbus          | 2019       | GameCrafterTeam                         | High-speed mech action               | PC, PS4, Switch                      |
@@ -74,6 +79,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Neokami: God Challengers | 2020 | Varisoft | Action RPG | iOS, Android |
 | Timelie                 | 2020       | Urnique Studio                          | Puzzle / semi-stealth                | PC, Switch                           |
 | Kingdoms Reborn         | 2020       | Earthshine	                             | City-builder strategy                | PC                                   |
+| Angel's Tale: An Extraordinary Love Story | 2021 | Studio GU | Visual Novel | PC |
 | Bloody Bunny: The Game | 2021 | Quantum Peaks | Hack-and-Slash / 3D Beat-'Em-Up | Switch |
 | Chubby Bear Smash | 2021 | Runnex Technology | Motion-Control Fighting | PC |
 | Cyjin: The Cyborg Ninja | 2021 | Aiya Games | Precision Platformer | PC, Switch |
@@ -81,6 +87,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Into the Haze           | 2021       | MSOFT                                   | Survival                             | PC                                   |
 | Joojee's Journey | 2021 | Quantum Peaks | Puzzle-Platformer | Switch |
 | Santhai: New Legend            | 2021  | Hardworker Studio                | 2D RPG                       | iOS, Android, PC    |
+| Delivery Man | 2022 | Negative Return | Third-Person Survival Horror | PC |
 | Knock Knock Run | 2022 | Varisoft  | Action / Adventure | Android |
 | Krut: The Mythic Wings        | 2022       | Pixel Perfex                    | Action / Adventure            | PC, PS4, PS5, Xbox One, Xbox Series X|S, Switch |
 | NYYO: The Forbidden Kingdom | 2022 | Amita Innovation | 2D Action Adventure | PC |
