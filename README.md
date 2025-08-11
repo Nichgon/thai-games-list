@@ -33,6 +33,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Earth Atlantis                | 2017       | Pixel Perfex                    | 2D Side-Scrolling Shooter      | PC, PS4, Xbox One, Nintendo Switch, iOS | 
 | Home Sweet Home         | 2017       | Yggdrazil Group (Ygggame)               | Survival horror / puzzle             | PC, PS4, Xbox One, Switch            |
 | Mist Survival           | 2018       | Dimension 32 Entertainment              | Survival                             | PC                                   |
+| DemonsAreCrazy                | 2019       | Bigbug Studio                    | MOBA / Action RPG              | PC |
 | M.A.S.S. Builder        | 2019       | The Vermillion Digital                  | RPG mech-fighting game               | PC                                   |
 | Project Nimbus          | 2019       | GameCrafterTeam                         | High-speed mech action               | PC, PS4, Switch                      |
 | Dual Gear               | 2020       | Orbital Speed Studio Co., Ltd.          | 3D mech action shooting / strategy   | PC                                   |
