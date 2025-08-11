@@ -45,6 +45,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Into the Haze           | 2021       | MSOFT                                   | Survival                             | PC                                   |
 | Santhai: New Legend            | 2021  | Hardworker Studio                | 2D RPG                       | iOS, Android, PC    |
 | Krut: The Mythic Wings        | 2022       | Pixel Perfex                    | Action / Adventure            | PC, PS4, PS5, Xbox One, Xbox Series X|S, Nintendo Switch |
+| 7 Sins: Lost in Labyrinth      | 2023       | Zai Studio                       | Survival Horror, Action-Adventure | PC |
 | Banchou Tactics               | 2023       | Secret Character     | Turn-Based Tactical RPG        | PC, Nintendo Switch | 
 
 ---
