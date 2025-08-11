@@ -28,6 +28,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | 12 Tails Online         | 2011       | Bigbug Studio                           | MMORPG / Fantasy                    | PC                                  |
 | So Many Me              | 2014       | Extend Studio                          | Puzzle platformer                    | PC, Xbox One                         |
 | Araya                   | 2016       | MAD Virtual Reality Studio              | First-person horror adventure        | PC (VR & non-VR)                     |
+| Earth Atlantis                | 2017       | Pixel Perfex                    | 2D Side-Scrolling Shooter      | PC, PS4, Xbox One, Nintendo Switch, iOS | 
 | Home Sweet Home         | 2017       | Yggdrazil Group (Ygggame)               | Survival horror / puzzle             | PC, PS4, Xbox One, Switch            |
 | Mist Survival           | 2018       | Dimension 32 Entertainment              | Survival                             | PC                                   |
 | M.A.S.S. Builder        | 2019       | The Vermillion Digital                  | RPG mech-fighting game               | PC                                   |
