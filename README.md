@@ -27,6 +27,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | A.R.E.S.: Extinction Agenda | 2010   | Extend Studio                          | 2.5D action platformer               | PC, Xbox 360                         |
 | KIA – Killed In Action     | 2010       | Virus Studios                    | TPS Online   | PC |
 | 12 Tails Online         | 2011       | Bigbug Studio                           | MMORPG / Fantasy                    | PC                                  |
+| Xenon Shooter: The Space Defender | 2012       | Pixel Perfex                    | Top-Down Shooter              | iOS |
 | So Many Me              | 2014       | Extend Studio                          | Puzzle platformer                    | PC, Xbox One                         |
 | Araya                   | 2016       | MAD Virtual Reality Studio              | First-person horror adventure        | PC (VR & non-VR)                     |
 | Earth Atlantis                | 2017       | Pixel Perfex                    | 2D Side-Scrolling Shooter      | PC, PS4, Xbox One, Nintendo Switch, iOS | 
