@@ -92,7 +92,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Krut: The Mythic Wings        | 2022       | Pixel Perfex                    | Action / Adventure            | PC, PS4, PS5, Xbox One, Xbox Series X|S, Switch |
 | NYYO: The Forbidden Kingdom | 2022 | Amita Innovation | 2D Action Adventure | PC |
 | Our Mountain | 2022 | Rachata Suksereekul | Atmospheric Adventure | PC |
-| Yakiniku Simulator | 2022 | SECRET CHARACTER | Casual Cooking / Life Simulation | PC |
+| Yakiniku Simulator | 2022 | SECRET CHARACTER | Casual Cooking / Life Simulation | PC, Switch |
 | 7 Sins: Lost in Labyrinth      | 2023       | Zai Studio                       | Survival Horror, Action-Adventure | PC |
 | Airship: Kingdoms Adrift       | 2023       | Revolution Industry              | Strategy / Simulation / RPG      | PC |
 | Asuji: The Legend of You | 2023 | Somnolent Team | 2D Action-Adventure | PC |
