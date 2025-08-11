@@ -14,6 +14,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Moontra Kid                   | 2004       | CyberPlanet Interactive            | Platformer                | PC    |
 | CEO City                | 2005       | CyberPlanet Interactive                | City-building / simulation           | PC                                   |
 | The House               | 2005       | Sinthai Studio                          | Flash horror / point-and-click       | Web (Flash)                          |
+| Moontra Kid: The Ghost City                  | 2005       | CyberPlanet Interactive            | Platformer                | PC    |
 | Tom-Yum-Goong: The Game        | 2005 | Game No Limit                   | Action / Fighting             | PC  | 
 | Asura (Asura Online)    | 2007       | Debuz                | 2D isometric MMORPG                  | PC                                   |
 | Santhai 1                | 2007       | Hardworker Studio                      | 2D RPG                       | PC                  |
