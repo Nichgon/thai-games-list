@@ -25,6 +25,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Khan Kluay: The Adventure | 2006 | Kantana Animation | Educational / Adventure | PC |
 | Asura (Asura Online)    | 2007       | Debuz                | 2D isometric MMORPG                  | PC                                   |
 | Santhai 1                | 2007       | Hardworker Studio                      | 2D RPG                       | PC                  |
+| Zaros X Battle | 2007 | ARSA Productions | 2D Fighting / Arcade | PC |
 | Barnyard Blast: Swine of the Night | 2008 | Sanuk Games | 2D Action Platformer | Nintendo DS |
 | HeroMaster             | 2008       | Bigbug Studio                         | Turn-based RPG                         | PC                                     |
 | Santhai 2                      | 2008  | Hardworker Studio                | 2D RPG                       | PC                  |
