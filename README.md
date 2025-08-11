@@ -90,7 +90,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Spirit Mancer                 | 2024       | Sunny Syrup Studio               | Hack and Slash / Deckbuilding    | PC, PS5, Nintendo Switch |
 | The Land Beneath Us | 2024 | FairPlay Studios | Turn-Based Roguelite Dungeon Crawler | Windows PC, Nintendo Switch, PS5, Xbox Series X/S |
 | Garland Boy | 2025 | Wappen Games       | Casual / Simulation | PC, iOS, Andriod  |
-| Re:Fragment ~Absolute Ambition~ | 2025 | AstralSeal | Visual Novel | PC |
+| Re:Fragment \~Absolute Ambition\~ | 2025 | AstralSeal | Visual Novel | PC |
 | Tale of REN ~ [Searching for HEART droplets] ~ | 2025 | Erost Game79 Studio | Visual Novel | PC | 
 
 ---
