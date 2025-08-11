@@ -33,6 +33,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Araya                   | 2016       | MAD Virtual Reality Studio              | First-person horror adventure        | PC (VR & non-VR)                     |
 | Earth Atlantis                | 2017       | Pixel Perfex                    | 2D Side-Scrolling Shooter      | PC, PS4, Xbox One, Nintendo Switch, iOS | 
 | Home Sweet Home         | 2017       | Yggdrazil Group (Ygggame)               | Survival horror / puzzle             | PC, PS4, Xbox One, Switch            |
+| The Falconers: Moonlight       | 2017       | Bionic Penguin Studios           | Thriller Visual Novel | PC, macOS, Linux |
 | Mist Survival           | 2018       | Dimension 32 Entertainment              | Survival                             | PC                                   |
 | Athenion                      | 2019       | ZERO-bit                         | Tactical CCG (Card/Board) online     | iOS, Android |
 | DemonsAreCrazy                | 2019       | Bigbug Studio                    | MOBA / Action RPG              | PC |
