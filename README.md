@@ -85,6 +85,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Night Drive: คืนหลอน ซ่อนทาง | 2024 | Zebracan Studio | First-Person Driving Horror | PC |
 | Spirit Mancer                 | 2024       | Sunny Syrup Studio               | Hack and Slash / Deckbuilding    | PC, PS5, Nintendo Switch |
 | The Land Beneath Us | 2024 | FairPlay Studios | Turn-Based Roguelite Dungeon Crawler | Windows PC, Nintendo Switch, PS5, Xbox Series X/S |
+| Garland Boy | 2025 | Wappen Games       | Casual / Simulation | PC, iOS, Andriod  |
 | Tale of REN ~ [Searching for HEART droplets] ~ | 2025 | Erost Game79 Studio | Visual Novel | PC | 
 
 ---
