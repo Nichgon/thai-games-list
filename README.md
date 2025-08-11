@@ -11,8 +11,12 @@ This repository aims to preserve and showcase the history of Thai game developme
 |-------------------------|------------|----------------------------------------|--------------------------------------|---------------------------------------|
 | Bangrajan                      | 2002       | Hansak Chombun, Boontham Phanyai | RTS                           | PC                   |
 | Magic Chronicle         | 2003       | CyberPlanet Interactive                | RTS                   | PC                                   |
-| Moontra Kid                   | 2004       | CyberPlanet Interactive            | Platformer                | PC    |
+| Moontra Kid - Episode 1: Drug War                   | 2004       | CyberPlanet Interactive            | Platformer / Educational               | PC    |
+| Moontra Kid Buggy                  | 2004       | CyberPlanet Interactive            | Racing / Educational                | PC    |
+| Moontra Kid: Magic Pair               | 2004       | CyberPlanet Interactive            | Puzzle / Educational                | PC    |
+| Moontra Kid: Quiz Fighting               | 2004       | CyberPlanet Interactive            | Trivia / Fighting / Educational                | PC    |
 | CEO City                | 2005       | CyberPlanet Interactive                | City-building / simulation           | PC                                   |
+| Moontra Kid: Ghost City Racer                 | 2005       | CyberPlanet Interactive            | Racing / Educational                | PC    |
 | The House               | 2005       | Sinthai Studio                          | Flash horror / point-and-click       | Web (Flash)                          |
 | Moontra Kid: The Ghost City                  | 2005       | CyberPlanet Interactive            | Platformer                | PC    |
 | Tom-Yum-Goong: The Game        | 2005 | Game No Limit                   | Action / Fighting             | PC  | 
