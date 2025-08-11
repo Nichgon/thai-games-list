@@ -16,12 +16,12 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Moontra Kid Buggy                  | 2004       | CyberPlanet Interactive            | Racing / Educational                | PC    |
 | Moontra Kid: Magic Pair               | 2004       | CyberPlanet Interactive            | Puzzle / Educational                | PC    |
 | Moontra Kid: Quiz Fighting               | 2004       | CyberPlanet Interactive            | Trivia / Fighting / Educational                | PC    |
+| Phiphop Yommarat Adventure | 2004 | CyberPlanet Interactive | Platformer / Adventure | PC |
+| Phiphop Yommarat: Adventures in the 3D World | 2004 | CyberPlanet Interactive | Action | PC |
 | CEO City                | 2005       | CyberPlanet Interactive                | City-building / simulation           | PC                                   |
 | Moontra Kid: Ghost City Racer                 | 2005       | CyberPlanet Interactive            | Racing / Educational                | PC    |
 | The House               | 2005       | Sinthai Studio                          | Flash horror / point-and-click       | Web (Flash)                          |
 | Moontra Kid: The Ghost City                  | 2005       | CyberPlanet Interactive            | Platformer                | PC    |
-| Phiphop Yommarat Adventure | 2005 | CyberPlanet Interactive | Platformer / Adventure | PC |
-| Phiphop Yommarat: Adventures in the 3D World | 2005 | CyberPlanet Interactive | Action | PC |
 | Tom-Yum-Goong: The Game        | 2005 | Game No Limit                   | Action / Fighting             | PC  | 
 | Khan Kluay: Kids War | 2006 | Kantana Animation | Strategy / Arcade | Web |
 | Khan Kluay: The Adventure | 2006 | Kantana Animation | Educational / Adventure | PC |
