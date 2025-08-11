@@ -18,6 +18,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Moontra Kid: Quiz Fighting               | 2004       | CyberPlanet Interactive            | Trivia / Fighting / Educational                | PC    |
 | Phiphop Yommarat Adventure | 2004 | CyberPlanet Interactive | Platformer / Adventure | PC |
 | Phiphop Yommarat: Adventures in the 3D World | 2004 | CyberPlanet Interactive | Action | PC |
+| Sim President | 2004 | Advance Intelligence Modernity | Simulation | Mobile (Java) |
 | CEO City                | 2005       | CyberPlanet Interactive                | City-building / simulation           | PC                                   |
 | Moontra Kid: Ghost City Racer                 | 2005       | CyberPlanet Interactive            | Racing / Educational                | PC    |
 | The House               | 2005       | Sinthai Studio                          | Flash horror / point-and-click       | Web (Flash)                          |
