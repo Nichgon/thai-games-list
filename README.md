@@ -47,6 +47,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Panthera Frontier | 2017 | Extend Studio | Space Strategy / Roguelike | iOS, Android |
 | The Falconers: Moonlight       | 2017       | Bionic Penguin Studios           | Thriller Visual Novel | PC, macOS, Linux |
 | Mist Survival           | 2018       | Dimension 32 Entertainment              | Survival                             | PC                                   |
+| Nine Satra: Mobile | 2018 | Crosstales Studio | Side-Scrolling Action RPG | Android, iOS |
 | Re Angel | 2018 | Studio GU | Visual Novel | PC |
 | AeternoBlade II          | 2019 | Corecell Technology | Action-Adventure | PS4, Nintendo Switch, Xbox One, PC          |
 | Athenion                      | 2019       | ZERO-bit                         | Tactical CCG (Card/Board) online     | iOS, Android |
