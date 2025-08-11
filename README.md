@@ -57,7 +57,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Pandora Hunter | 2019 | Extend Studio | Board RPG / PvP | iOS, Android |
 | Project Nimbus          | 2019       | GameCrafterTeam                         | High-speed mech action               | PC, PS4, Switch                      |
 | Dash Dash World | 2020 | MotionX Studio | VR Kart Racing / Combat | Oculus Quest, SteamVR, PSVR |
-| Dual Gear               | 2020       | Orbital Speed Studio Co., Ltd.          | 3D mech action shooting / strategy   | PC                                   |
+| Dual Gear               | 2020       | Orbital Speed Studio          | 3D mech action shooting / strategy   | PC                                   |
 | Fallen Knight | 2020 | FairPlay Studios | Action-Platformer | PC, PS4, Xbox One, Nintendo Switch, iOS |
 | Neokami: God Challengers | 2020 | Varisoft | Action RPG | iOS, Android |
 | Timelie                 | 2020       | Urnique Studio                          | Puzzle / semi-stealth                | PC, Switch                           |
