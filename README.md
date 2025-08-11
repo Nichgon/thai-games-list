@@ -13,7 +13,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | CEO City                | 2005       | CyberPlanet Interactive                | City-building / simulation           | PC                                   |
 | The House               | 2005       | Sinthai Studio                          | Flash horror / point-and-click       | Web (Flash)                          |
 | Asura (Asura Online)    | 2007       | Debuz (Debuz Co., Ltd.)                 | 2D isometric MMORPG                  | PC                                   |
-| HeroMaster              | 2008       | Bigbug Studio                         | Turn-based RPG                         | PC                                     |
+| Hero Master             | 2008       | Bigbug Studio                         | Turn-based RPG                         | PC                                     |
 | A.R.E.S.: Extinction Agenda | 2010   | Extend Studio                          | 2.5D action platformer               | PC, Xbox 360                         |
 | So Many Me              | 2014       | Extend Studio                          | Puzzle platformer                    | PC, Xbox One                         |
 | Araya                   | 2016       | MAD Virtual Reality Studio              | First-person horror adventure        | PC (VR & non-VR)                     |
