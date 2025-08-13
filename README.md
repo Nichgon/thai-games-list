@@ -88,6 +88,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Timelie                 | 2020       | Urnique Studio                          | Puzzle / semi-stealth                | PC, Switch                           |
 | Kingdoms Reborn         | 2020       | Earthshine	                             | City-builder strategy                | PC                                   |
 | Angel's Tale: An Extraordinary Love Story | 2021 | Studio GU | Visual Novel | PC |
+| Ascii the Brave Cat | 2021 | Workyrie Game Studio | 2D Action Platformer | PC |
 | Bloody Bunny: The Game | 2021 | Quantum Peaks | Hack-and-Slash / 3D Beat-'Em-Up | Switch |
 | Chubby Bear Smash | 2021 | Runnex Technology | Motion-Control Fighting | PC |
 | Cyjin: The Cyborg Ninja | 2021 | Aiya Games | Precision Platformer | PC, Switch |
@@ -109,8 +110,10 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Eternal Dread 3 | 2023 | Hitbear Studio | Action RPG | PC |
 | FARSIDERS | 2023 | Gambit Ghost Studio | Top-Down Hack-and-Slash RPG | PC, PS5, Xbox Series X/S, Switch |
 | Goi: Spooky Run | 2023 | Yggdrazil Group  | Online Party Survival | Windows PC |
+| GemCrusty | 2023 | RedSensationGames | Casual Mining / Dating Sim | PC |
 | Sole Saga                     | 2023       | Dev It With Cat                  | Action Roguelike / Bullet Hell    | PC, Linux |
 | The Picture of Café au lait | 2023 | AstralSeal | Visual Novel | PC |
+| Tragedy Theater | 2023 | TrickBunny | RPGMaker Horror / Puzzle | PC |
 | Abyssal Blood | 2024 | Xilosopher | Action Roguelike / Survivors-like |  PC |
 | Dungeon Looter | 2024 | Wappen Games | Hack-and-Slash Roguelite / Action RPG | PC |
 | Frog Story: The Power Tongue | 2024 | ADox-Lab | Puzzle-Platformer | PC, Android |
@@ -119,6 +122,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Night Drive: คืนหลอน ซ่อนทาง | 2024 | Zebracan Studio | First-Person Driving Horror | PC |
 | Seed of Heroes | 2024 | Vermillion Digital | Bullet Heaven / Roguelite | PC |
 | Spirit Mancer                 | 2024       | Sunny Syrup Studio               | Hack and Slash / Deckbuilding    | PC, PS5, Switch |
+| The Corpsmen | 2024 | Multicell Games | Deck-Building Roguelite / Creature Collector | PC |
 | The Land Beneath Us | 2024 | FairPlay Studios | Turn-Based Roguelite Dungeon Crawler | Windows PC, Switch, PS5, Xbox Series X/S |
 | Garland Boy | 2025 | Wappen Games       | Casual / Simulation | PC, iOS, Andriod  |
 | Re:Fragment \~Absolute Ambition\~ | 2025 | AstralSeal | Visual Novel | PC |
