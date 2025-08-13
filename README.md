@@ -1,11 +1,7 @@
-# 🇹🇭 Thai Games List
+# 🇹🇭 Games developed by Thai developers
 
 A curated list of video games developed in **Thailand**, including release year, studio, genre, and platform.  
 This repository aims to preserve and showcase the history of Thai game development — from early titles to modern indie hits.
-
----
-
-## 📜 Game List
 
 | Game Title              | Year       | Studio / Developer                     | Genre / Type                         | Platform(s)                          |
 |-------------------------|------------|----------------------------------------|--------------------------------------|---------------------------------------|
