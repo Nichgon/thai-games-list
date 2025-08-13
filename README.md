@@ -66,6 +66,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Mist Survival           | 2018       | Dimension 32 Entertainment              | Survival                             | PC                                   |
 | Nine Satra: Mobile | 2018 | Crosstales Studio | Side-Scrolling Action RPG | Android, iOS |
 | Re Angel | 2018 | Studio GU | Visual Novel | PC |
+| War Of The Zombie | 2018 | Van der Veer Games | Strategy / Simulation | PC, macOS |
 | AeternoBlade II          | 2019 | Corecell Technology | Action-Adventure | PS4, Switch, Xbox One, PC          |
 | Athenion                      | 2019       | ZERO-bit                         | Tactical CCG (Card/Board) online     | iOS, Android |
 | DemonsAreCrazy                | 2019       | Bigbug Studio                    | MOBA / Action RPG              | PC |
