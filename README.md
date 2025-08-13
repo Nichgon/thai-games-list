@@ -3,6 +3,8 @@
 A curated list of video games developed by **Thai developers**, including release year, studio, genre, and platform.  
 This repository aims to preserve and showcase the history of Thai game development — from early titles to modern indie hits.
 
+[See the table here](data.md)
+
 | Game Title              | Year       | Studio / Developer                     | Genre / Type                         | Platform(s)                          |
 |-------------------------|------------|----------------------------------------|--------------------------------------|---------------------------------------|
 | Bangrajan                      | 2002       | Hansak Chombun, Boontham Phanyai | RTS                           | PC                   |
