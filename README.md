@@ -42,6 +42,7 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Xenon Shooter: The Space Defender | 2012       | Pixel Perfex                    | Top-Down Shooter              | iOS |
 | Candy Meleon | 2013 | LevelLoop | Action / Arcade | iOS |
 | AeternoBlade             | 2014 | Corecell Technology | Action RPG       | 3DS, PS4, PS Vita, Switch, PC |
+| Bombing Bastards | 2014 | Sanuk Games | Arcade Action / Party Maze Shooter | PC, macOS, Linux |
 | So Many Me              | 2014       | Extend Studio                          | Puzzle platformer                    | PC, Xbox One                         |
 | Araya                   | 2016       | MAD Virtual Reality Studio              | First-person horror adventure        | PC (VR & non-VR)                     |
 | Blast Breaker Online | 2016 | UNext Digital Plus | 3D Side-Scrolling Action MMORPG | PC |
@@ -109,12 +110,14 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Encoded War | 2023 | Somnolent Team | Morse Code Simulation | PC, macOS |
 | Eternal Dread 3 | 2023 | Hitbear Studio | Action RPG | PC |
 | FARSIDERS | 2023 | Gambit Ghost Studio | Top-Down Hack-and-Slash RPG | PC, PS5, Xbox Series X/S, Switch |
-| Goi: Spooky Run | 2023 | Yggdrazil Group  | Online Party Survival | Windows PC |
 | GemCrusty | 2023 | RedSensationGames | Casual Mining / Dating Sim | PC |
+| Goi: Spooky Run | 2023 | Yggdrazil Group  | Online Party Survival | Windows PC |
+| Nova Strike | 2023 | Sanuk Games | Retro Shoot ’em Up / Rogue-lite Bullet Hell | PC |
 | Sole Saga                     | 2023       | Dev It With Cat                  | Action Roguelike / Bullet Hell    | PC, Linux |
 | The Picture of Café au lait | 2023 | AstralSeal | Visual Novel | PC |
 | Tragedy Theater | 2023 | TrickBunny | RPGMaker Horror / Puzzle | PC |
 | Abyssal Blood | 2024 | Xilosopher | Action Roguelike / Survivors-like |  PC |
+| Algor PEW PEW | 2024 | Realic Production | Rogue-lite Bullet-Hell / Action | PC |
 | Dungeon Looter | 2024 | Wappen Games | Hack-and-Slash Roguelite / Action RPG | PC |
 | Frog Story: The Power Tongue | 2024 | ADox-Lab | Puzzle-Platformer | PC, Android |
 | Memary: Memory of the nameless one | 2024 | AstralSeal | Visual Novel / Puzzle Adventure | PC |
@@ -124,6 +127,8 @@ This repository aims to preserve and showcase the history of Thai game developme
 | Spirit Mancer                 | 2024       | Sunny Syrup Studio               | Hack and Slash / Deckbuilding    | PC, PS5, Switch |
 | The Corpsmen | 2024 | Multicell Games | Deck-Building Roguelite / Creature Collector | PC |
 | The Land Beneath Us | 2024 | FairPlay Studios | Turn-Based Roguelite Dungeon Crawler | Windows PC, Switch, PS5, Xbox Series X/S |
+| Whacking Hell! | 2024 | Sanuk Games | Roguelite Bullet-Hell / Top-Down Shooter | PC |
+| Escape from Irene | 2025 | NanosquidTeam | Psychological Horror / Puzzle Adventure | PC |
 | Garland Boy | 2025 | Wappen Games       | Casual / Simulation | PC, iOS, Andriod  |
 | Re:Fragment \~Absolute Ambition\~ | 2025 | AstralSeal | Visual Novel | PC |
 | Tale of REN ~ [Searching for HEART droplets] ~ | 2025 | Erost Game79 Studio | Visual Novel | PC | 
